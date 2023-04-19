@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ylucFQ2MLainVJbnKTkQeYtHBvbkOQtA/TfSqotGy17zjb5PY6D19ZoIjzAES4r7ax50u6+hWD1voOa5cLuWCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tomas\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\VisualStudio\\AdditionalIsoKeyToShift\\AdditionalIsoKeyToShift\\AdditionalIsoKeyToShift.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tomas\\.nuget\\packages\\materialdesigncolors\\2.1.2\\materialdesigncolors.2.1.2.nupkg.sha512",
+    "C:\\Users\\tomas\\.nuget\\packages\\materialdesignthemes\\4.8.0\\materialdesignthemes.4.8.0.nupkg.sha512",
+    "C:\\Users\\tomas\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}

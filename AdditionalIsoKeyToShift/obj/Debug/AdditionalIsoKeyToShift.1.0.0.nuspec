@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AdditionalIsoKeyToShift</id>
+    <version>1.0.0</version>
+    <authors>AdditionalIsoKeyToShift</authors>
+    <icon>5261178w.png</icon>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="MaterialDesignThemes" version="4.8.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\tomas\OneDrive\Dokumenty\PROGRAMOWANIE\VisualStudio\AdditionalIsoKeyToShift\AdditionalIsoKeyToShift\bin\Debug\net6.0-windows\AdditionalIsoKeyToShift.runtimeconfig.json" target="lib\net6.0-windows7.0\AdditionalIsoKeyToShift.runtimeconfig.json" />
+    <file src="C:\Users\tomas\OneDrive\Dokumenty\PROGRAMOWANIE\VisualStudio\AdditionalIsoKeyToShift\AdditionalIsoKeyToShift\bin\Debug\net6.0-windows\AdditionalIsoKeyToShift.dll" target="lib\net6.0-windows7.0\AdditionalIsoKeyToShift.dll" />
+  </files>
+</package>
